@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aojahyahfi.tie.ba/sitemap.xml
